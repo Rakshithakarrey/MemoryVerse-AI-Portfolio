@@ -1,4 +1,4 @@
-# MemoryVerse AI '26 — Digital Portfolio & Memory Engine
+# MemoryVerse AI — Portfolio
 
 MemoryVerse AI is an AI-powered digital portfolio and memory engine built with **Python and Streamlit**. It helps students organize resumes, certificates, project reports, internship letters, achievements, and academic documents in one place.
 
